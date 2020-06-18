@@ -1,0 +1,131 @@
+.body{
+    width: 1440px;
+    height: auto;
+    
+}
+.container{
+    background-image: url(../clipboard-landing-page-master/images/bg-header-desktop.png);
+    background-repeat: no-repeat;
+    background-position: top ;
+    font-family: 'Bai Jamjuree', sans-serif;
+    color: hsl(210, 10%, 33%);
+    
+}
+.logo{
+    display: flex;
+justify-content: center;
+padding-top: 150px;
+}
+.head5{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding-top: 45px;
+    text-align: center;
+    font-size: 30px;
+}
+.head6 h3{
+    font-weight: 600;
+}
+.head6 p{
+    margin-top: -20px;
+    font-size: 17px;
+    font-weight: 400;
+}
+.button, .button1{
+    width: 220px;
+    height: 50px;
+    border-radius: 30px;
+    margin-top: 40px;
+    color: white;
+    background-color: hsl(171, 66%, 44%);
+}
+.button1{
+  background-color: hsl(233, 100%, 69%);
+}
+.head1 {
+    display: flex;
+    flex-direction: column;
+    padding-top: 100px;
+    text-align: center;
+    font-size: 28px;
+}
+.head1 h3{
+    font-weight: 600;
+}
+.head1 p{
+    margin-top: -20px;
+    font-size: 15px;
+    font-weight: 400;
+}
+.monitor{
+    padding-top: 80px;
+}
+.main{
+    padding-top: 100px;
+    margin-left: 120px;
+}
+.desktop{
+    display: inline-flex;
+}
+.head2 h3{
+    padding-top: 50px;
+}
+.image{
+    display: flex;
+    justify-content: center;
+    padding-top: 120px;
+    margin-bottom: -100px;
+}
+.row{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-top: 40px;
+}
+.head4{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+.head4 p{
+    margin-top: 05px;
+}
+.logo1{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-top: 150px;
+    margin-left: 120px;
+    margin-right: 120px;
+    margin-bottom: 40px;
+}
+.main1{
+    display: flex;
+    flex-direction: row;
+    margin-top: 180px;
+    background-color: hsl(201, 11%, 66%);
+}
+.thi{
+    display: flex;
+    justify-content: space-between;
+    padding-left: 100px;
+    padding-top: 20px;
+}
+.fir{
+    padding-left: 100px;
+}
+.sec{
+    padding-left: 150px;
+}
+.iconss{
+    display: flex;
+    flex-direction: row;
+    padding-top: 55px;
+    padding-left: 200px;
+}
+.one{
+    padding-left: 20px;
+}
